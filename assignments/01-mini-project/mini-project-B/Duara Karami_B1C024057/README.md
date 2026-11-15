@@ -1,6 +1,6 @@
 # Mini Assignment – Breast Cancer Classification
 
-## Identitas
+Identitas
 - Nama: Duara Karami Wahyudi
 - NIM: B1C024057
 - Program Studi: S1 Biologi Terapan
